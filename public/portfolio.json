@@ -2,16 +2,18 @@
   "personal": {
     "name": "Vaishnavi B",
     "title": "Software Engineer",
-    "roles": ["Full Stack Developer", "Machine Learning Engineer"],
-    "description": "Proactive engineer with a solid foundation in machine learning and full-stack development.",
+    "roles": [
+      "Full Stack Developer",
+      "Machine Learning Engineer"
+    ],
+    "description": "Proactive individual with a solid foundation in machine learning and full-stack development, skilled in building responsive web applications and deploying advanced AI models.",
     "location": "Bangalore, Karnataka",
     "contact": {
       "phone": "+91 6362426634",
-      "email": "[email protected]",
+      "email": "vaishnavibangera22@gmail.com",
       "linkedin": "https://www.linkedin.com/in/vaishnavi-bangera-27506229b/"
     }
   },
-
   "experience": [
     {
       "role": "Full Stack Web Development Intern",
@@ -20,77 +22,80 @@
         "start": "2024-09",
         "end": "2024-10"
       },
-      "description": "Developed responsive web applications and an e-commerce platform with full-stack integration.",
+      "description": "Developed responsive web applications and an e-commerce application with HTML, CSS, and JavaScript, integrating Node.js/Express.js back-ends.",
       "technologies": [
         "HTML",
         "CSS",
         "JavaScript",
         "ReactJS",
+        "MongoDB",
         "Node.js",
-        "Express.js",
-        "MongoDB"
+        "Express.js"
       ]
     }
   ],
-
   "projects": [
     {
-      "title": "3D Protein Prediction",
+      "title": "3D Protein Prediction using Deep Learning",
       "duration": "Oct – Nov 2025",
-      "tagline": "Deep Learning · Bioinformatics",
-      "description": "Built a deep learning model to predict protein structures using CNNs, RNNs, and Transformers.",
+      "tagline": "Deep Learning · Bioinformatics · AlphaFold Inspired",
+      "description": "Implemented a deep learning model to predict 3D protein structures from amino acid sequences using CNNs, RNNs, and Transformers for spatial representation.",
       "technologies": [
         "Python",
         "TensorFlow",
         "PyTorch",
         "Biopython",
         "NumPy",
-        "Pandas"
+        "Pandas",
+        "Jupyter Notebook"
       ]
     },
     {
       "title": "Email Spam Detection",
       "duration": "Apr – May 2025",
-      "tagline": "ML · NLP · ~90% Accuracy",
-      "description": "Implemented TF-IDF and Naïve Bayes for spam classification with ~90% accuracy.",
+      "tagline": "ML · NLP · 90% Accuracy",
+      "description": "Built a text classification model to distinguish spam emails using tokenization, stop-word removal, and TF-IDF vectorization with a Naïve Bayes classifier.",
       "technologies": [
         "Python",
         "Scikit-learn",
         "Pandas",
-        "TF-IDF",
-        "Naïve Bayes"
+        "NumPy",
+        "TF-IDF"
       ]
     },
     {
-      "title": "Full Stack To-Do App",
+      "title": "Full Stack To-Do List App",
       "duration": "Apr – May 2025",
-      "tagline": "CRUD · REST API · Drag & Drop",
-      "description": "Developed a task management app with React frontend and Node.js backend.",
+      "tagline": "CRUD · RESTful API · UX/UI",
+      "description": "Developed a responsive task management application featuring drag-and-drop functionality and a full RESTful backend for persistent storage.",
       "technologies": [
         "React.js",
         "Node.js",
         "Express.js",
         "MongoDB",
-        "REST API"
+        "JavaScript",
+        "HTML/CSS"
       ]
     },
     {
-      "title": "Pothole Detection AI",
+      "title": "Pothole Detection using AI/ML",
       "duration": "Jan – Apr 2025",
-      "tagline": "Computer Vision · CNN · 80–90% Accuracy",
-      "description": "Built a CNN-based model to detect potholes from images and video datasets.",
+      "tagline": "Computer Vision · CNN · Safety Tech",
+      "description": "Optimized a computer vision model to detect and classify potholes from road images using image filtering and CNNs, achieving 80–90% accuracy.",
       "technologies": [
         "Python",
         "OpenCV",
         "TensorFlow",
-        "Scikit-learn",
-        "CNN"
+        "Scikit-learn"
       ]
     }
   ],
-
   "skills": {
-    "languages": ["Python", "JavaScript", "Java"],
+    "languages": [
+      "Python",
+      "JavaScript",
+      "Java"
+    ],
     "webDevelopment": [
       "HTML",
       "CSS",
@@ -104,7 +109,10 @@
       "Scikit-learn",
       "TensorFlow",
       "PyTorch",
-      "OpenCV"
+      "OpenCV",
+      "CNN",
+      "RNN",
+      "Transformers"
     ],
     "dataScience": [
       "Pandas",
@@ -112,56 +120,47 @@
       "Matplotlib",
       "Seaborn",
       "TF-IDF",
-      "Naïve Bayes"
+      "Naive Bayes"
     ],
-    "biTools": ["Tableau", "Power BI"],
-    "tools": ["VS Code", "Jupyter Notebook", "Anaconda", "Eclipse"]
+    "biTools": [
+      "Tableau",
+      "Power BI"
+    ],
+    "tools": [
+      "VS Code",
+      "Jupyter Notebook",
+      "Anaconda",
+      "Eclipse"
+    ]
   },
-
   "education": [
     {
       "degree": "Bachelor of Engineering",
       "institution": "Global Academy of Technology",
-      "field": "Information Science & Engineering",
+      "field": "Information Science and Engineering",
       "score": "7.04 CGPA",
-      "duration": "2024 – Present"
+      "duration": "Nov 2024 – Present"
     },
     {
-      "degree": "Senior Secondary Certificate",
+      "degree": "Senior Secondary Certificate (Class 12)",
       "institution": "Sri Chaitanya Techno School, JP Nagar",
       "field": "Science",
       "score": "88.6%",
       "year": "2022"
     },
     {
-      "degree": "Secondary School Examination",
+      "degree": "Secondary School Examination (Class 10)",
       "institution": "Sri Chaitanya Techno School, JP Nagar",
       "field": "General Curriculum",
       "score": "90.2%",
       "year": "2020"
     }
   ],
-
   "certifications": [
     {
-      "name": "Complete UNIX & Linux OS Fundamentals Training",
-      "issuer": "Infosys SpringBoard",
-      "date": "2024-02-26"
-    },
-    {
-      "name": "Power BI for Business Professionals",
-      "issuer": "Infosys SpringBoard",
-      "date": "2025-01-05"
-    },
-    {
-      "name": "Software Engineering & Agile Software Development",
-      "issuer": "Infosys SpringBoard",
-      "date": "2025-06-25"
-    },
-    {
-      "name": "Deloitte Australia Data Analytics Job Simulation",
-      "issuer": "Forage",
-      "date": "2025-10"
+      "name": "Machine Learning with AI",
+      "issuer": "Internshala",
+      "date": "2025-12-08"
     },
     {
       "name": "Artificial Intelligence Fundamentals",
@@ -169,14 +168,19 @@
       "date": "2025-10-10"
     },
     {
-      "name": "Walmart USA Advanced Software Engineering Virtual Experience",
-      "issuer": "Forage",
-      "date": "2025-12"
+      "name": "Software Engineering and Agile Software Development",
+      "issuer": "Infosys SpringBoard",
+      "date": "2025-06-25"
     },
     {
-      "name": "Machine Learning with AI",
-      "issuer": "Internshala",
-      "date": "2025-12-08"
+      "name": "Power BI for Business Professionals",
+      "issuer": "Infosys SpringBoard",
+      "date": "2025-01-05"
+    },
+    {
+      "name": "Complete UNIX & Linux OS Fundamentals Training",
+      "issuer": "Infosys SpringBoard",
+      "date": "2024-02-26"
     }
   ]
 }
