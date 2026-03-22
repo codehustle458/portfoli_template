@@ -1,153 +1,125 @@
 {
   "personal": {
-    "name": "Vishwas Narayana",
-    "title": "Agentic AI Architect | Startup Scout | Technical Trainer",
-    "tagline": "Building the future of AI-driven platforms, scouting high-potential startups, and empowering engineers through mentorship and innovation.",
-    "bio": "I'm a passionate technologist with a lifelong obsession for AI, algorithms, and solving real-world problems. My journey spans AI acceleration, platform engineering, DevRel, and mentorship. I thrive at the intersection of technology, community, and innovation, with expertise in Python, C++, deep learning, and cloud-native platforms.",
-    "currentRole": "Agentic AI Architect at EnterpriseSI",
-    "currentRoleDescription": "Scouting high-potential startups for AI acceleration and reinventing enterprise AI adoption. Designing agentic AI systems to solve complex challenges and collaborating with founders to drive innovation.",
-    "email": "vishwasnarayan2345@gmail.com",
-    "location": "Bangalore, Karnataka, India"
+    "name": "Vaishnavi B", [cite: 1]
+    "title": "Software Engineer (Full Stack & Machine Learning)", [cite: 2]
+    "tagline": "Proactive developer with a solid foundation in machine learning and full-stack development, dedicated to creating responsive applications and reliable AI models.", [cite: 5]
+    "bio": "I am a detail-oriented developer skilled in Python and web technologies with experience in deploying machine learning algorithms and building responsive web applications. I focus on engaging user experiences and leveraging technical skills to drive efficiency.", [cite: 5]
+    "currentRole": "B.E. Student in Information Science and Engineering", [cite: 5]
+    "currentRoleDescription": "Currently pursuing a Bachelor of Engineering at Global Academy Of Technology, maintaining a CGPA of 7.04 while developing advanced projects in deep learning and full-stack development.", [cite: 5]
+    "email": "vaishnavibangera22@gmail.com", [cite: 6]
+    "location": "Bangalore, Karnataka, India" [cite: 3]
   },
   "about": {
     "title": "About",
     "sections": [
-      "I'm an Agentic AI Architect, Startup Scout, and Technical Trainer with a focus on AI acceleration, platform engineering, and mentorship. My work bridges the gap between cutting-edge technology and real-world impact, from building scalable AI platforms to empowering the next generation of engineers.",
-      "With experience in startups, enterprise AI, and DevRel, I specialize in Python, C++, deep learning, and cloud-native architectures. I love tackling complex challenges and creating solutions that scale.",
-      "In my spare time, I contribute to open-source projects, host technical workshops, and explore emerging technologies like neurohacking and vector databases."
+      "I am a proactive individual with a solid foundation in machine learning and full-stack development. My experience includes creating responsive applications and advanced AI models, with a focus on engaging user experiences and reliable outcomes.", [cite: 5]
+      "I am skilled in Python, JavaScript, and Java, alongside modern web technologies like React.js, Node.js, and MongoDB. I am ready to leverage these technical skills to drive efficiency and user-centric solutions.", [cite: 5]
+      "I have successfully implemented diverse projects ranging from 3D Protein Prediction using Deep Learning to Full Stack To-Do applications, demonstrating a versatile ability to tackle both complex backend logic and interactive frontend design." [cite: 5]
     ]
   },
   "experience": [
     {
-      "period": "Oct 2025 – Present",
-      "title": "Agentic AI Architect",
-      "company": "EnterpriseSI, Bangalore, India",
-      "description": "Scout and evaluate high-potential startups for AI acceleration and enterprise integration. Design and implement agentic AI systems to solve complex challenges. Collaborate with founders to reinvent AI adoption in traditional industries.",
-      "skills": ["Startup Scouting", "Agentic AI", "Python", "AI Acceleration"]
-    },
-    {
-      "period": "Sep 2025 – Present",
-      "title": "Founder",
-      "company": "OrionOps, Bangalore, India",
-      "description": "Building a cutting-edge AI and data engineering platform to empower startups. Leading product development, focusing on scalability, automation, and AI-driven insights. Mentoring engineers to foster innovation and technical excellence.",
-      "skills": ["AI Platforms", "Data Engineering", "Mentorship", "Product Development"]
-    },
-    {
-      "period": "Jun 2025 – Present",
-      "title": "MLOps Engineer",
-      "company": "Stealth Startup, Bangalore, India",
-      "description": "Develop and deploy ML pipelines for real-time inference and batch processing. Optimize model-serving infrastructure using Kubernetes, Docker, and serverless architectures. Implement CI/CD pipelines for seamless model deployment.",
-      "skills": ["MLOps", "Kubernetes", "Docker", "CI/CD"]
-    },
-    {
-      "period": "Jun 2024 – May 2025",
-      "title": "DevRel Lead",
-      "company": "Future Sense Infinity Media, Bangalore, India",
-      "description": "Led developer relations initiatives, including workshops, hackathons, and technical content creation. Bridged the gap between engineering teams and developer communities through education and advocacy.",
-      "skills": ["Developer Relations", "Community Building", "Technical Writing", "Workshops"]
+      "period": "Sep 2024 – Oct 2024", [cite: 5]
+      "title": "Full Stack Web Development Intern", [cite: 5]
+      "company": "Prinston Smart Engineers", [cite: 5]
+      "description": "Developed responsive web applications and an e-commerce application using HTML, CSS, and JavaScript. Integrated Node.js/Express.js back-end systems.", [cite: 5]
+      "skills": ["HTML", "CSS", "JavaScript", "ReactJS", "MongoDB", "Node.js", "Express.js"] [cite: 5]
     }
   ],
   "projects": [
     {
       "id": 1,
-      "title": "OrionOps AI Platform",
-      "description": "A scalable AI and data engineering platform for startups, focusing on automation and AI-driven insights.",
-      "longDescription": "Founded and built OrionOps to provide startups with tools for rapid AI development and deployment. The platform integrates MLOps, data pipelines, and real-time analytics to empower engineers and data scientists.",
-      "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=500&h=300&fit=crop",
-      "tags": ["AI", "MLOps", "Data Engineering", "Automation"],
-      "link": "https://example.com/orionops",
+      "title": "3D Protein Prediction using Deep Learning", [cite: 5]
+      "description": "A deep learning model to predict 3D protein structures from amino acid sequences.", [cite: 5]
+      "longDescription": "Implemented a deep learning model to predict protein tertiary structures using CNNs, RNNs, and Transformers. Applied sequence embeddings and evolutionary profiles for feature extraction, validating results against PDB structures for applications in drug discovery.", [cite: 5]
+      "image": "https://images.unsplash.com/photo-1532187875605-186c63a69739?w=500&h=300&fit=crop",
+      "tags": ["Deep Learning", "Python", "Bioinformatics", "TensorFlow", "PyTorch"], [cite: 5]
+      "link": "#",
       "featured": true
     },
     {
       "id": 2,
-      "title": "BuildPiper Show",
-      "description": "Educational series on DevOps and microservices for developers.",
-      "longDescription": "Created and hosted the BuildPiper Show, featuring workshops, interviews with DevOps leaders, and tutorials to help developers master microservices, CI/CD, and cloud-native architectures.",
-      "image": "https://images.unsplash.com/photo-1556740738-b6a63e27c4df?w=500&h=300&fit=crop",
-      "tags": ["DevOps", "Microservices", "Education", "Community"],
-      "link": "https://example.com/buildpiper",
+      "title": "Full Stack To-Do List Web Application", [cite: 5]
+      "description": "A responsive task management app with CRUD functionality and drag-and-drop features.", [cite: 5]
+      "longDescription": "Designed and developed a responsive web application to manage tasks. Implemented the frontend using React.js and the backend with Node.js and Express.js. Integrated MongoDB for persistent task storage.", [cite: 5]
+      "image": "https://images.unsplash.com/photo-1484480974693-6ca0a78fb36b?w=500&h=300&fit=crop",
+      "tags": ["React.js", "Node.js", "MongoDB", "RESTful APIs"], [cite: 5]
+      "link": "#",
       "featured": true
     },
     {
       "id": 3,
-      "title": "#proudengineer Movement",
-      "description": "Global initiative to celebrate and empower engineers through community-building and mentorship.",
-      "longDescription": "Launched the #proudengineer movement to recognize engineers worldwide. The initiative includes social campaigns, mentorship programs, and resources to support professional growth and innovation.",
-      "image": "https://images.unsplash.com/photo-1552664730-d307ca884978?w=500&h=300&fit=crop",
-      "tags": ["Community", "Mentorship", "Advocacy", "Engineering"],
-      "link": "https://example.com/proudengineer",
+      "title": "Pothole Detection using AI/ML", [cite: 5]
+      "description": "Computer vision model to detect and classify potholes from road images for improved safety.", [cite: 5]
+      "longDescription": "Developed a computer vision model using OpenCV and trained a CNN for classification. Achieved 80-90% accuracy on test datasets, improving detection reliability compared to baseline methods.", [cite: 5]
+      "image": "https://images.unsplash.com/photo-1515162305285-0293e4767cc2?w=500&h=300&fit=crop",
+      "tags": ["Computer Vision", "OpenCV", "CNN", "Python"], [cite: 5]
+      "link": "#",
       "featured": false
     }
   ],
   "skills": [
     {
       "category": "Programming Languages",
-      "items": ["Python", "C++", "JavaScript", "Go", "SQL"]
+      "items": ["Python", "JavaScript", "Java"] [cite: 5]
     },
     {
-      "category": "AI/ML",
-      "items": ["Deep Learning", "Computer Vision", "Neurohacking", "Graph Data Modeling", "Vector Databases"]
+      "category": "Web Development",
+      "items": ["HTML", "CSS", "React.js", "Node.js", "Express.js", "MongoDB", "MYSQL"] [cite: 5]
     },
     {
-      "category": "DevOps & Cloud",
-      "items": ["Kubernetes", "Docker", "Terraform", "AWS", "GCP", "Azure", "CI/CD"]
+      "category": "Machine Learning & AI",
+      "items": ["Scikit-learn", "TensorFlow", "PyTorch", "OpenCV", "CNN", "RNN", "Transformers"] [cite: 5]
     },
     {
-      "category": "Tools & Platforms",
-      "items": ["Git", "Apache Spark", "Airflow", "Kafka", "Figma", "Vercel"]
+      "category": "Data Science & NLP",
+      "items": ["Pandas", "NumPy", "Matplotlib", "Seaborn", "TF-IDF", "Naive Bayes"] [cite: 5]
     },
     {
-      "category": "Soft Skills",
-      "items": ["Startup Scouting", "Community Building", "Technical Writing", "Public Speaking", "Mentorship"]
+      "category": "Tools & BI",
+      "items": ["Tableau", "Power BI", "VS Code", "Jupyter Notebook", "Anaconda", "Eclipse"] [cite: 5]
     }
   ],
   "education": [
     {
-      "degree": "Bachelor of Technology (BTech), Electrical, Electronics & Communications Engineering",
-      "institution": "Visvesvaraya Technological University, Bangalore, India",
-      "period": "2017–2021"
+      "degree": "B.E, Information Science and Engineering", [cite: 5]
+      "institution": "Global Academy Of Technology, Bangalore, India", [cite: 5]
+      "period": "Nov 2024 – Present" [cite: 5]
+    },
+    {
+      "degree": "Senior Secondary Certificate (Science)", [cite: 5]
+      "institution": "Sri Chaitanya Techno School, Bangalore, India", [cite: 5]
+      "period": "2020 – 2022" [cite: 5]
     }
   ],
   "certifications": [
     {
-      "name": "Deep Learning Specialization",
-      "issuer": "Coursera"
+      "name": "Artificial Intelligence Fundamentals", [cite: 5]
+      "issuer": "IBM Skills Build" [cite: 5]
     },
     {
-      "name": "Graph Data Modeling Fundamentals"
+      "name": "Machine Learning with AI", [cite: 5]
+      "issuer": "Internshala" [cite: 5]
     },
     {
-      "name": "Cypher Fundamentals"
+      "name": "Software Engineering and Agile Software Development", [cite: 5]
+      "issuer": "Infosys SpringBoard" [cite: 5]
     },
     {
-      "name": "Introduction to Vector Indexes and Unstructured Data"
+      "name": "Power BI for Business Professionals", [cite: 5]
+      "issuer": "Infosys SpringBoard" [cite: 5]
     }
   ],
   "social": [
     {
       "name": "LinkedIn",
-      "url": "https://linkedin.com/in/vishwasnarayana",
+      "url": "https://www.linkedin.com/in/vaishnavi-bangera-27506229b/", [cite: 5]
       "icon": "linkedin"
     },
     {
-      "name": "GitHub",
-      "url": "https://github.com/vishwas1234567",
-      "icon": "github"
-    },
-    {
-      "name": "Twitter",
-      "url": "https://twitter.com/vishwasnarayana5",
-      "icon": "twitter"
-    },
-    {
       "name": "Email",
-      "url": "mailto:vishwasnarayan2345@gmail.com",
+      "url": "mailto:vaishnavibangera22@gmail.com", [cite: 6]
       "icon": "mail"
-    },
-    {
-      "name": "Portfolio",
-      "url": "https://vishwasnarayan5.web.app",
-      "icon": "globe"
     }
   ]
 }
